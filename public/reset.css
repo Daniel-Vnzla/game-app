@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style: none;
+}
+
+body::-webkit-scrollbar {
+	width: .81rem;
+}
+
+body::-webkit-scrollbar-thumb {
+	background: #fff;
+	border-radius: 50px;
+	border: solid 4px #394e70;
+}
+
+body::-webkit-scrollbar-track {
+	background: #394e70;
+}
+
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	font-family: 'Poppins';
+}
+
