@@ -1,4 +1,4 @@
-## Api
+## Rawg API
 https://api.rawg.io/docs/
 
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
